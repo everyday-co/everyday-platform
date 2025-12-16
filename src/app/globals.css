@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal baseline; we’ll refine once Everyday palette tokens are finalized. */
+html, body {
+  height: 100%;
+}
+
+
